@@ -1,0 +1,9 @@
+Inserto una linea en el archivo_a.txt
+<<<<<<< HEAD
+Experimento añadiendo una nueva linea al archivo_a.txt en la rrama experimento
+Añado segunda linea al archivo_a.txt en la rama master
+=======
+Experimento añadiendo una nueva linea al archivo_a.txt en la rama experimento
+>>>>>>> intento
+Añado segunda linea al archivo_a.txt en la rama master
+Resuelvo el problema en la primera linea al archivo_b.txt

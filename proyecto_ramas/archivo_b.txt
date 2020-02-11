@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+Añado segunda linea al archivo_b.txt en la rama intento
+=======
+Añado primers linea al archivo_b.txt en la rama master
+>>>>>>> intento
+Añado primers linea al archivo_b.txt en la rama master
